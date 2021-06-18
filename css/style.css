@@ -1,0 +1,154 @@
+.imageheader{
+	text-align: center;
+}
+.imageheader img{
+	width: 62%;
+	height: 200px;
+}
+
+.select{
+	width: 170px;
+	height: 25px;
+}
+
+body h2{
+	color: red;
+	text-align: center;
+}
+
+.gagal{
+	margin-top: 50px;
+	color: blue;
+	text-align: center;
+}
+
+.loginform {
+	position: relative;
+	margin: auto;
+	margin-top: 100px;
+}
+.loginform  table {
+	margin: auto;
+	text-align: center;
+}
+.menu{
+	padding: 10px 15px;
+	width: 60%;
+	margin: auto;
+	text-align: center;
+	background-color: whitesmoke;
+	border-bottom: 5px solid darkblue;
+	border-top: 5px solid darkblue;
+}
+
+.menu > .link {
+	padding: 10px 15px;
+	color: grey;
+	text-decoration: none;
+	font-size: 14pt;
+}
+
+.menu > .link:hover{
+	color: red;
+}
+
+.menu > .active{
+	color: red;
+	font-size: 14pt;
+}
+
+.active{
+	color: yellow;
+	font-size: 14pt;
+}
+
+.tgl_div{
+	text-align: center;
+	color: blue;
+	margin-bottom: 20px;
+}
+
+.pilihan{
+	text-align: center;
+}
+
+.tombolmenu{
+	text-align: left;
+	padding-left: 50px;
+}
+
+.pilihan > .btn , .tombolmenu > .btn{
+	padding: 10px 20px;
+}
+
+.pilihan > .aksi{
+	padding: 5px 10px;
+}
+
+.aksi:hover , .pilihan .btn:hover , .tombolmenu > .btn:hover {
+	background-color: grey;
+	cursor: pointer;
+}
+
+.tambah {
+	background-color: green;
+	color: white;
+	border-radius: 10px;
+	border: 2px solid white;
+}
+
+.putar {
+	background-color: yellow;
+	color: white;
+	border-radius: 10px;
+	border: 2px solid white;
+}
+
+
+.hapus{
+	background-color: red;
+	color: white;
+	border-radius: 10px;
+	border: 2px solid white;
+}
+
+.lihat{
+	background-color: blue;
+	color: white;
+	border-radius: 10px;
+	border: 2px solid white;
+}
+
+
+.maininfo{
+
+	margin-top: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 100px;
+}
+
+.masuk table{
+	position: relative;
+	margin: auto;
+	border-collapse: collapse;
+}
+.masuk table td{
+			padding: 10px;
+			border: 2px solid #ccc;
+			text-align: center;
+			border-collapse: collapse;
+}
+
+.max3 {
+	width: 30px;
+}
+
+table tr td a{
+			color: green;
+			text-decoration: none;
+}
+table tr td a:hover{
+			color: blue;
+			text-decoration: none;
+}
